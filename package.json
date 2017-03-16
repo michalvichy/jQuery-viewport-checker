@@ -5,6 +5,7 @@
   "homepage": "https://github.com/dirkgroenen/jQuery-viewport-checker",
   "description": "Little script that detects if an element is in the viewport and adds a class to it.",
   "repository": "https://github.com/dirkgroenen/jQuery-viewport-checker",
+  "main": "dist/jquery.viewportchecker.min.js"
   "licenses": {
     "type": "MIT",
     "url": "https://github.com/dirkgroenen/jQuery-viewport-checker/blob/master/LICENSE"
